@@ -1,0 +1,29 @@
+[
+    { 
+        "id": "ryanair", 
+        "name": "Ryanair", 
+        "limits": {
+            "personal": { "h": 40, "w": 25, "d": 20 },
+            "cabin": { "h": 55, "w": 40, "d": 20 },
+            "checked": { "h": 81, "w": 119, "d": 119 }
+        }
+    },
+    { 
+        "id": "easyjet", 
+        "name": "EasyJet", 
+        "limits": {
+            "personal": { "h": 45, "w": 36, "d": 20 },
+            "cabin": { "h": 56, "w": 45, "d": 25 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    { 
+        "id": "klm", 
+        "name": "KLM Royal Dutch Airlines", 
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 55, "w": 35, "d": 25 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    }
+]
