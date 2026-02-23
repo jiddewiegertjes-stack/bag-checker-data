@@ -1,181 +1,649 @@
 [
-    { 
-        "id": "ryanair", 
-        "name": "Ryanair", 
-        "limits": {
-            "personal": { "h": 40, "w": 25, "d": 20 },
-            "cabin": { "h": 55, "w": 40, "d": 20 },
-            "checked": { "h": 81, "w": 119, "d": 119 }
-        }
-    },
-    { 
-        "id": "easyjet", 
-        "name": "EasyJet", 
-        "limits": {
-            "personal": { "h": 45, "w": 36, "d": 20 },
-            "cabin": { "h": 56, "w": 45, "d": 25 },
-            "checked": { "h": 90, "w": 75, "d": 43 }
-        }
-    },
-    { 
-        "id": "klm", 
-        "name": "KLM Royal Dutch Airlines", 
-        "limits": {
-            "personal": { "h": 40, "w": 30, "d": 15 },
-            "cabin": { "h": 55, "w": 35, "d": 25 },
-            "checked": { "h": 90, "w": 75, "d": 43 }
-        }
-    },
-    { 
-        "id": "transavia", 
-        "name": "Transavia", 
-        "limits": {
-            "personal": { "h": 40, "w": 30, "d": 20 },
-            "cabin": { "h": 55, "w": 35, "d": 25 },
-            "checked": { "h": 70, "w": 70, "d": 70 }
-        }
-    },
-    { 
-        "id": "wizzair", 
-        "name": "Wizz Air", 
-        "limits": {
-            "personal": { "h": 40, "w": 30, "d": 20 },
-            "cabin": { "h": 55, "w": 40, "d": 23 },
-            "checked": { "h": 149, "w": 119, "d": 171 }
-        }
-    },
-    { 
-        "id": "vueling", 
-        "name": "Vueling", 
-        "limits": {
-            "personal": { "h": 40, "w": 30, "d": 20 },
-            "cabin": { "h": 55, "w": 40, "d": 20 },
-            "checked": { "h": 90, "w": 75, "d": 43 }
-        }
-    },
-    { 
-        "id": "lufthansa", 
-        "name": "Lufthansa", 
-        "limits": {
-            "personal": { "h": 40, "w": 30, "d": 10 },
-            "cabin": { "h": 55, "w": 40, "d": 23 },
-            "checked": { "h": 90, "w": 75, "d": 43 }
-        }
-    },
-    { 
-        "id": "air_france", 
-        "name": "Air France", 
-        "limits": {
-            "personal": { "h": 40, "w": 30, "d": 15 },
-            "cabin": { "h": 55, "w": 35, "d": 25 },
-            "checked": { "h": 90, "w": 75, "d": 43 }
-        }
-    },
-    { 
-        "id": "british_airways", 
-        "name": "British Airways", 
+    {
+        "id": "aegean_airlines",
+        "name": "Aegean Airlines",
         "limits": {
             "personal": { "h": 40, "w": 30, "d": 15 },
             "cabin": { "h": 56, "w": 45, "d": 25 },
             "checked": { "h": 90, "w": 75, "d": 43 }
         }
     },
-    { 
-        "id": "delta_airlines", 
-        "name": "Delta Airlines", 
+    {
+        "id": "aer_lingus",
+        "name": "Aer Lingus",
         "limits": {
-            "personal": { "h": 43, "w": 33, "d": 22 },
-            "cabin": { "h": 56, "w": 35, "d": 23 },
+            "personal": { "h": 40, "w": 30, "d": 20 },
+            "cabin": { "h": 55, "w": 39, "d": 24 },
             "checked": { "h": 90, "w": 75, "d": 43 }
         }
     },
-    { 
-        "id": "american_airlines", 
-        "name": "American Airlines", 
+    {
+        "id": "aeroflot",
+        "name": "Aeroflot",
         "limits": {
-            "personal": { "h": 45, "w": 35, "d": 20 },
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 55, "w": 39, "d": 25 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "aerolineas_argentinas",
+        "name": "Aerolineas Argentinas",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 56, "w": 36, "d": 25 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "aeromexico",
+        "name": "Aeromexico",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 55, "w": 40, "d": 25 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "air_asia",
+        "name": "Air Asia",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
             "cabin": { "h": 56, "w": 36, "d": 23 },
             "checked": { "h": 90, "w": 75, "d": 43 }
         }
     },
-    { 
-        "id": "united_airlines", 
-        "name": "United Airlines", 
-        "limits": {
-            "personal": { "h": 43, "w": 25, "d": 22 },
-            "cabin": { "h": 56, "w": 35, "d": 22 },
-            "checked": { "h": 90, "w": 75, "d": 43 }
-        }
-    },
-    { 
-        "id": "emirates", 
-        "name": "Emirates", 
-        "limits": {
-            "personal": { "h": 40, "w": 30, "d": 20 },
-            "cabin": { "h": 55, "w": 38, "d": 20 },
-            "checked": { "h": 90, "w": 75, "d": 43 }
-        }
-    },
-    { 
-        "id": "qatar_airways", 
-        "name": "Qatar Airways", 
+    {
+        "id": "air_astana",
+        "name": "Air Astana",
         "limits": {
             "personal": { "h": 40, "w": 30, "d": 15 },
-            "cabin": { "h": 50, "w": 37, "d": 25 },
+            "cabin": { "h": 56, "w": 46, "d": 25 },
             "checked": { "h": 90, "w": 75, "d": 43 }
         }
     },
-    { 
-        "id": "turkish_airlines", 
-        "name": "Turkish Airlines", 
+    {
+        "id": "air_baltic",
+        "name": "Air Baltic",
         "limits": {
             "personal": { "h": 40, "w": 30, "d": 15 },
-            "cabin": { "h": 55, "w": 40, "d": 23 },
+            "cabin": { "h": 55, "w": 39, "d": 23 },
             "checked": { "h": 90, "w": 75, "d": 43 }
         }
     },
-    { 
-        "id": "norwegian", 
-        "name": "Norwegian", 
-        "limits": {
-            "personal": { "h": 38, "w": 30, "d": 20 },
-            "cabin": { "h": 55, "w": 40, "d": 23 },
-            "checked": { "h": 90, "w": 75, "d": 43 }
-        }
-    },
-    { 
-        "id": "iberia", 
-        "name": "Iberia", 
+    {
+        "id": "air_canada",
+        "name": "Air Canada",
         "limits": {
             "personal": { "h": 40, "w": 30, "d": 15 },
-            "cabin": { "h": 56, "w": 40, "d": 25 },
+            "cabin": { "h": 55, "w": 39, "d": 23 },
             "checked": { "h": 90, "w": 75, "d": 43 }
         }
     },
-    { 
-        "id": "tap_portugal", 
-        "name": "TAP Air Portugal", 
+    {
+        "id": "air_caraibes",
+        "name": "Air Caraibes",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 53, "w": 38, "d": 18 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "air_china",
+        "name": "Air China",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 56, "w": 36, "d": 23 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "air_europa",
+        "name": "Air Europa",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 55, "w": 35, "d": 25 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "air_france",
+        "name": "Air France",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 55, "w": 35, "d": 25 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "air_india",
+        "name": "Air India",
         "limits": {
             "personal": { "h": 40, "w": 30, "d": 15 },
             "cabin": { "h": 55, "w": 40, "d": 20 },
             "checked": { "h": 90, "w": 75, "d": 43 }
         }
     },
-    { 
-        "id": "singapore_airlines", 
-        "name": "Singapore Airlines", 
+    {
+        "id": "air_macau",
+        "name": "Air Macau",
         "limits": {
-            "personal": { "h": 40, "w": 30, "d": 10 },
+            "personal": { "h": 40, "w": 30, "d": 15 },
             "cabin": { "h": 56, "w": 36, "d": 23 },
             "checked": { "h": 90, "w": 75, "d": 43 }
         }
     },
-    { 
-        "id": "southwest_airlines", 
-        "name": "Southwest Airlines", 
+    {
+        "id": "air_malta",
+        "name": "Air Malta",
         "limits": {
-            "personal": { "h": 41, "w": 34, "d": 22 },
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 55, "w": 40, "d": 20 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "air_niugini",
+        "name": "Air Niugini",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 50, "w": 30, "d": 20 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "air_nostrum",
+        "name": "Air Nostrum",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 45, "w": 35, "d": 20 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "air_serbia",
+        "name": "Air Serbia",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 55, "w": 40, "d": 23 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "air_seychelles",
+        "name": "Air Seychelles",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 55, "w": 40, "d": 20 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "air_tahiti",
+        "name": "Air Tahiti",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 55, "w": 35, "d": 25 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "air_transat",
+        "name": "Air Transat",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 51, "w": 41, "d": 23 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "airasiax",
+        "name": "AirAsiaX",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 56, "w": 36, "d": 23 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "aircalin",
+        "name": "Aircalin",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 55, "w": 35, "d": 25 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "airlink",
+        "name": "Airlink",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 56, "w": 36, "d": 23 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "alaska_airlines",
+        "name": "Alaska Airlines",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 56, "w": 36, "d": 23 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "allegiant_air",
+        "name": "Allegiant Air",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 56, "w": 41, "d": 25 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "american_airlines",
+        "name": "American Airlines",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 56, "w": 36, "d": 23 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "ana",
+        "name": "ANA",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 56, "w": 41, "d": 25 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "asiana_airlines",
+        "name": "Asiana Airlines",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 55, "w": 40, "d": 20 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "austrian",
+        "name": "Austrian",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 56, "w": 41, "d": 23 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "avianca",
+        "name": "Avianca",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 56, "w": 36, "d": 25 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "azerbaijan_airlines",
+        "name": "Azerbaijan Airlines",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 55, "w": 40, "d": 23 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "bahamasair",
+        "name": "Bahamasair",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 56, "w": 36, "d": 23 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "bamboo_airways",
+        "name": "Bamboo Airways",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 56, "w": 36, "d": 23 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "bangkok_airways",
+        "name": "Bangkok Airways",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 50, "w": 36, "d": 23 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "belavia",
+        "name": "Belavia",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 56, "w": 41, "d": 25 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "biman_bangladesh",
+        "name": "Biman Bangladesh",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 51, "w": 38, "d": 25 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "blue_air",
+        "name": "Blue Air",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 53, "w": 41, "d": 20 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "boliviana_de_aviacion",
+        "name": "Boliviana de Aviacion",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 55, "w": 20, "d": 35 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "british_airways",
+        "name": "British Airways",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 56, "w": 46, "d": 25 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "bulgaria_air",
+        "name": "Bulgaria Air",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 56, "w": 41, "d": 23 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "cambodia_angkor_air",
+        "name": "Cambodia Angkor Air",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 50, "w": 40, "d": 20 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "cathay_pacific",
+        "name": "Cathay Pacific",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 56, "w": 36, "d": 23 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "cayman_airways",
+        "name": "Cayman Airways",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 61, "w": 41, "d": 28 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "cebu_pacific",
+        "name": "Cebu Pacific",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 56, "w": 36, "d": 23 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "china_airlines",
+        "name": "China Airlines",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 56, "w": 36, "d": 23 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "china_eastern",
+        "name": "China Eastern",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 50, "w": 40, "d": 20 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "commutair",
+        "name": "CommutAir",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 56, "w": 36, "d": 23 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "conviasa",
+        "name": "Conviasa",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 61, "w": 37, "d": 25 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "copa_airlines",
+        "name": "Copa Airlines",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 56, "w": 36, "d": 25 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "delta_airlines",
+        "name": "Delta Airlines",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 56, "w": 36, "d": 23 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "easyjet",
+        "name": "easyJet",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 43, "w": 36, "d": 20 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "emirates_airlines",
+        "name": "Emirates Airlines",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 56, "w": 38, "d": 20 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "etihad_airways",
+        "name": "Etihad Airways",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 56, "w": 36, "d": 23 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "frontier_airlines",
+        "name": "Frontier Airlines",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
             "cabin": { "h": 61, "w": 41, "d": 25 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "jetblue_airways",
+        "name": "jetBlue Airways",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 56, "w": 36, "d": 23 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "klm",
+        "name": "KLM",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 55, "w": 34, "d": 25 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "latam",
+        "name": "LATAM",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 55, "w": 35, "d": 25 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "lufthansa",
+        "name": "Lufthansa",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 56, "w": 41, "d": 23 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "norwegian",
+        "name": "Norwegian",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 56, "w": 41, "d": 23 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "qantas_airways",
+        "name": "Qantas Airways",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 56, "w": 36, "d": 23 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "qatar_airways",
+        "name": "Qatar Airways",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 51, "w": 38, "d": 25 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "royal_air_maroc",
+        "name": "Royal Air Maroc",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 55, "w": 40, "d": 25 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "ryanair",
+        "name": "Ryanair",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 56, "w": 41, "d": 20 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "singapore_airlines",
+        "name": "Singapore Airlines",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 56, "w": 38, "d": 20 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "southwest_airlines",
+        "name": "Southwest Airlines",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 61, "w": 41, "d": 25 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "spirit_airlines",
+        "name": "Spirit Airlines",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 56, "w": 46, "d": 25 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "turkish_airlines",
+        "name": "Turkish Airlines",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 55, "w": 39, "d": 25 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "united_airlines",
+        "name": "United Airlines",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 56, "w": 36, "d": 23 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "virgin_atlantic",
+        "name": "Virgin Atlantic",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 56, "w": 36, "d": 23 },
+            "checked": { "h": 90, "w": 75, "d": 43 }
+        }
+    },
+    {
+        "id": "wizz_air",
+        "name": "Wizz Air",
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 15 },
+            "cabin": { "h": 40, "w": 30, "d": 20 },
             "checked": { "h": 90, "w": 75, "d": 43 }
         }
     }
