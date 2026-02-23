@@ -23,7 +23,25 @@
         "limits": {
             "personal": { "h": 40, "w": 30, "d": 15 },
             "cabin": { "h": 55, "w": 35, "d": 25 },
-            "checked": { "h": 90, "w": 75, "d": 43 }
+            "checked": { "h": 158, "w": 158, "d": 158 }
+        }
+    },
+    { 
+        "id": "transavia", 
+        "name": "Transavia", 
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 20 },
+            "cabin": { "h": 55, "w": 35, "d": 25 },
+            "checked": { "h": 70, "w": 70, "d": 70 }
+        }
+    },
+    { 
+        "id": "wizzair", 
+        "name": "Wizz Air", 
+        "limits": {
+            "personal": { "h": 40, "w": 30, "d": 20 },
+            "cabin": { "h": 55, "w": 40, "d": 23 },
+            "checked": { "h": 149, "w": 119, "d": 171 }
         }
     }
 ]
