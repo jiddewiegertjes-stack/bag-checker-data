@@ -1,8 +1,0 @@
-[
-    { "id": "samsonite_scure", "name": "Samsonite S'Cure Spinner 55", "h": 55, "w": 40, "d": 20 },
-    { "id": "samsonite_cosmolite", "name": "Samsonite Cosmolite 55", "h": 55, "w": 40, "d": 20 },
-    { "id": "eastpak_tranverz", "name": "Eastpak Tranverz S", "h": 51, "w": 32, "d": 24 },
-    { "id": "american_tourister", "name": "American Tourister Soundbox", "h": 55, "w": 40, "d": 20 },
-    { "id": "generic_budget", "name": "Generic Budget Bag", "h": 55, "w": 35, "d": 20 },
-    { "id": "oversized_dummy", "name": "Oversized Dummy Bag", "h": 60, "w": 42, "d": 26 }
-]
