@@ -84,14 +84,14 @@
     "name": "Wizz Air",
     "limits": {
       "personal": {
-        "h": 0,
-        "w": 0,
-        "d": 0
+        "h": 40,
+        "w": 30,
+        "d": 20
       },
       "cabin": {
-        "h": 0,
-        "w": 0,
-        "d": 0
+        "h": 55,
+        "w": 40,
+        "d": 23
       }
     }
   },
@@ -244,14 +244,14 @@
     "name": "Corendon Airlines",
     "limits": {
       "personal": {
-        "h": 0,
-        "w": 0,
-        "d": 0
+        "h": 40,
+        "w": 30,
+        "d": 20
       },
       "cabin": {
-        "h": 0,
-        "w": 0,
-        "d": 0
+        "h": 55,
+        "w": 40,
+        "d": 25
       }
     }
   },
@@ -260,14 +260,14 @@
     "name": "TUI fly",
     "limits": {
       "personal": {
-        "h": 0,
-        "w": 0,
-        "d": 0
+        "h": 40,
+        "w": 30,
+        "d": 20
       },
       "cabin": {
-        "h": 0,
-        "w": 0,
-        "d": 0
+        "h": 55,
+        "w": 40,
+        "d": 20
       }
     }
   },
@@ -276,14 +276,14 @@
     "name": "Pegasus Airlines",
     "limits": {
       "personal": {
-        "h": 0,
-        "w": 0,
-        "d": 0
+        "h": 40,
+        "w": 30,
+        "d": 15
       },
       "cabin": {
-        "h": 0,
-        "w": 0,
-        "d": 0
+        "h": 55,
+        "w": 40,
+        "d": 23
       }
     }
   },
@@ -308,6 +308,22 @@
     "name": "Iberia",
     "limits": {
       "personal": {
+        "h": 30,
+        "w": 40,
+        "d": 15
+      },
+      "cabin": {
+        "h": 56,
+        "w": 40,
+        "d": 25
+      }
+    }
+  },
+  {
+    "id": "qatar_airways",
+    "name": "Qatar Airways",
+    "limits": {
+      "personal": {
         "h": 0,
         "w": 0,
         "d": 0
@@ -316,6 +332,448 @@
         "h": 0,
         "w": 0,
         "d": 0
+      }
+    }
+  },
+  {
+    "id": "air_canada",
+    "name": "Air Canada",
+    "limits": {
+      "personal": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      },
+      "cabin": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      }
+    }
+  },
+  {
+    "id": "southwest_airlines",
+    "name": "Southwest Airlines",
+    "limits": {
+      "personal": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      },
+      "cabin": {
+        "h": 61,
+        "w": 41,
+        "d": 25
+      }
+    }
+  },
+  {
+    "id": "jetblue",
+    "name": "JetBlue Airways",
+    "limits": {
+      "personal": {
+        "h": 20,
+        "w": 33,
+        "d": 43
+      },
+      "cabin": {
+        "h": 23,
+        "w": 36,
+        "d": 56
+      }
+    }
+  },
+  {
+    "id": "norwegian",
+    "name": "Norwegian Air Shuttle",
+    "limits": {
+      "personal": {
+        "h": 30,
+        "w": 40,
+        "d": 20
+      },
+      "cabin": {
+        "h": 55,
+        "w": 40,
+        "d": 23
+      }
+    }
+  },
+  {
+    "id": "finnair",
+    "name": "Finnair",
+    "limits": {
+      "personal": {
+        "h": 40,
+        "w": 30,
+        "d": 15
+      },
+      "cabin": {
+        "h": 55,
+        "w": 40,
+        "d": 23
+      }
+    }
+  },
+  {
+    "id": "swiss",
+    "name": "SWISS International Air Lines",
+    "limits": {
+      "personal": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      },
+      "cabin": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      }
+    }
+  },
+  {
+    "id": "austrian_airlines",
+    "name": "Austrian Airlines",
+    "limits": {
+      "personal": {
+        "h": 40,
+        "w": 30,
+        "d": 15
+      },
+      "cabin": {
+        "h": 55,
+        "w": 40,
+        "d": 23
+      }
+    }
+  },
+  {
+    "id": "brussels_airlines",
+    "name": "Brussels Airlines",
+    "limits": {
+      "personal": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      },
+      "cabin": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      }
+    }
+  },
+  {
+    "id": "aer_lingus",
+    "name": "Aer Lingus",
+    "limits": null
+  },
+  {
+    "id": "air_europa",
+    "name": "Air Europa",
+    "limits": {
+      "personal": {
+        "h": 40,
+        "w": 30,
+        "d": 15
+      },
+      "cabin": {
+        "h": 55,
+        "w": 35,
+        "d": 25
+      }
+    }
+  },
+  {
+    "id": "lot_polish",
+    "name": "LOT Polish Airlines",
+    "limits": {
+      "personal": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      },
+      "cabin": {
+        "h": 55,
+        "w": 40,
+        "d": 23
+      }
+    }
+  },
+  {
+    "id": "aegean_airlines",
+    "name": "Aegean Airlines",
+    "limits": {
+      "personal": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      },
+      "cabin": {
+        "h": 56,
+        "w": 45,
+        "d": 25
+      }
+    }
+  },
+  {
+    "id": "icelandair",
+    "name": "Icelandair",
+    "limits": null
+  },
+  {
+    "id": "etihad_airways",
+    "name": "Etihad Airways",
+    "limits": {
+      "personal": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      },
+      "cabin": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      }
+    }
+  },
+  {
+    "id": "singapore_airlines",
+    "name": "Singapore Airlines",
+    "limits": {
+      "personal": {
+        "h": 40,
+        "w": 30,
+        "d": 10
+      },
+      "cabin": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      }
+    }
+  },
+  {
+    "id": "cathay_pacific",
+    "name": "Cathay Pacific",
+    "limits": {
+      "personal": {
+        "h": 40,
+        "w": 30,
+        "d": 15
+      },
+      "cabin": {
+        "h": 56,
+        "w": 36,
+        "d": 23
+      }
+    }
+  },
+  {
+    "id": "qantas",
+    "name": "Qantas",
+    "limits": {
+      "personal": {
+        "h": 34,
+        "w": 48,
+        "d": 23
+      },
+      "cabin": {
+        "h": 56,
+        "w": 36,
+        "d": 23
+      }
+    }
+  },
+  {
+    "id": "air_new_zealand",
+    "name": "Air New Zealand",
+    "limits": {
+      "personal": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      },
+      "cabin": {
+        "h": 55,
+        "w": 40,
+        "d": 23
+      }
+    }
+  },
+  {
+    "id": "latam",
+    "name": "LATAM Airlines",
+    "limits": {
+      "personal": {
+        "h": 45,
+        "w": 35,
+        "d": 20
+      },
+      "cabin": {
+        "h": 55,
+        "w": 35,
+        "d": 25
+      }
+    }
+  },
+  {
+    "id": "avianca",
+    "name": "Avianca",
+    "limits": {
+      "personal": {
+        "h": 45,
+        "w": 35,
+        "d": 20
+      },
+      "cabin": {
+        "h": 55,
+        "w": 35,
+        "d": 25
+      }
+    }
+  },
+  {
+    "id": "aeromexico",
+    "name": "Aeromexico",
+    "limits": {
+      "personal": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      },
+      "cabin": {
+        "h": 55,
+        "w": 40,
+        "d": 25
+      }
+    }
+  },
+  {
+    "id": "copa_airlines",
+    "name": "Copa Airlines",
+    "limits": {
+      "personal": {
+        "h": 43,
+        "w": 25,
+        "d": 22
+      },
+      "cabin": {
+        "h": 56,
+        "w": 36,
+        "d": 26
+      }
+    }
+  },
+  {
+    "id": "spirit_airlines",
+    "name": "Spirit Airlines",
+    "limits": {
+      "personal": {
+        "h": 45,
+        "w": 35,
+        "d": 20
+      },
+      "cabin": {
+        "h": 56,
+        "w": 46,
+        "d": 25
+      }
+    }
+  },
+  {
+    "id": "frontier_airlines",
+    "name": "Frontier Airlines",
+    "limits": {
+      "personal": {
+        "h": 46,
+        "w": 36,
+        "d": 25
+      },
+      "cabin": {
+        "h": 61,
+        "w": 41,
+        "d": 25
+      }
+    }
+  },
+  {
+    "id": "alaska_airlines",
+    "name": "Alaska Airlines",
+    "limits": {
+      "personal": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      },
+      "cabin": {
+        "h": 56,
+        "w": 36,
+        "d": 23
+      }
+    }
+  },
+  {
+    "id": "virgin_atlantic",
+    "name": "Virgin Atlantic",
+    "limits": {
+      "personal": {
+        "h": 45,
+        "w": 35,
+        "d": 20
+      },
+      "cabin": {
+        "h": 56,
+        "w": 36,
+        "d": 23
+      }
+    }
+  },
+  {
+    "id": "ana",
+    "name": "All Nippon Airways (ANA)",
+    "limits": {
+      "personal": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      },
+      "cabin": {
+        "h": 55,
+        "w": 40,
+        "d": 25
+      }
+    }
+  },
+  {
+    "id": "jal",
+    "name": "Japan Airlines (JAL)",
+    "limits": {
+      "personal": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      },
+      "cabin": {
+        "h": 40,
+        "w": 55,
+        "d": 25
+      }
+    }
+  },
+  {
+    "id": "sunexpress",
+    "name": "SunExpress",
+    "limits": {
+      "personal": {
+        "h": 30,
+        "w": 40,
+        "d": 20
+      },
+      "cabin": {
+        "h": 55,
+        "w": 40,
+        "d": 23
       }
     }
   }
