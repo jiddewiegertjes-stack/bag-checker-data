@@ -1,1 +1,322 @@
-
+[
+  {
+    "id": "klm",
+    "name": "KLM",
+    "limits": {
+      "personal": {
+        "h": 40,
+        "w": 30,
+        "d": 15
+      },
+      "cabin": {
+        "h": 55,
+        "w": 35,
+        "d": 25
+      }
+    }
+  },
+  {
+    "id": "united_airlines",
+    "name": "United Airlines",
+    "limits": {
+      "personal": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      },
+      "cabin": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      }
+    }
+  },
+  {
+    "id": "transavia",
+    "name": "Transavia",
+    "limits": {
+      "personal": {
+        "h": 40,
+        "w": 30,
+        "d": 20
+      },
+      "cabin": {
+        "h": 55,
+        "w": 40,
+        "d": 25
+      }
+    }
+  },
+  {
+    "id": "ryanair",
+    "name": "Ryanair",
+    "limits": {
+      "personal": {
+        "h": 40,
+        "w": 30,
+        "d": 20
+      },
+      "cabin": {
+        "h": 55,
+        "w": 40,
+        "d": 20
+      }
+    }
+  },
+  {
+    "id": "easyjet",
+    "name": "easyJet",
+    "limits": {
+      "personal": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      },
+      "cabin": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      }
+    }
+  },
+  {
+    "id": "wizz_air",
+    "name": "Wizz Air",
+    "limits": {
+      "personal": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      },
+      "cabin": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      }
+    }
+  },
+  {
+    "id": "vueling",
+    "name": "Vueling",
+    "limits": {
+      "personal": {
+        "h": 40,
+        "w": 30,
+        "d": 20
+      },
+      "cabin": {
+        "h": 55,
+        "w": 40,
+        "d": 20
+      }
+    }
+  },
+  {
+    "id": "lufthansa",
+    "name": "Lufthansa",
+    "limits": {
+      "personal": {
+        "h": 40,
+        "w": 30,
+        "d": 15
+      },
+      "cabin": {
+        "h": 55,
+        "w": 40,
+        "d": 23
+      }
+    }
+  },
+  {
+    "id": "british_airways",
+    "name": "British Airways",
+    "limits": {
+      "personal": {
+        "h": 40,
+        "w": 30,
+        "d": 15
+      },
+      "cabin": {
+        "h": 56,
+        "w": 45,
+        "d": 25
+      }
+    }
+  },
+  {
+    "id": "air_france",
+    "name": "Air France",
+    "limits": {
+      "personal": {
+        "h": 40,
+        "w": 30,
+        "d": 15
+      },
+      "cabin": {
+        "h": 55,
+        "w": 35,
+        "d": 25
+      }
+    }
+  },
+  {
+    "id": "tap_portugal",
+    "name": "TAP Air Portugal",
+    "limits": {
+      "personal": {
+        "h": 40,
+        "w": 30,
+        "d": 15
+      },
+      "cabin": {
+        "h": 55,
+        "w": 40,
+        "d": 25
+      }
+    }
+  },
+  {
+    "id": "emirates",
+    "name": "Emirates",
+    "limits": {
+      "personal": {
+        "h": 45,
+        "w": 35,
+        "d": 20
+      },
+      "cabin": {
+        "h": 55,
+        "w": 38,
+        "d": 22
+      }
+    }
+  },
+  {
+    "id": "delta",
+    "name": "Delta Air Lines",
+    "limits": {
+      "personal": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      },
+      "cabin": {
+        "h": 56,
+        "w": 35,
+        "d": 23
+      }
+    }
+  },
+  {
+    "id": "american_airlines",
+    "name": "American Airlines",
+    "limits": {
+      "personal": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      },
+      "cabin": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      }
+    }
+  },
+  {
+    "id": "turkish_airlines",
+    "name": "Turkish Airlines",
+    "limits": {
+      "personal": {
+        "h": 40,
+        "w": 30,
+        "d": 15
+      },
+      "cabin": {
+        "h": 55,
+        "w": 40,
+        "d": 23
+      }
+    }
+  },
+  {
+    "id": "corendon",
+    "name": "Corendon Airlines",
+    "limits": {
+      "personal": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      },
+      "cabin": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      }
+    }
+  },
+  {
+    "id": "tui_fly",
+    "name": "TUI fly",
+    "limits": {
+      "personal": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      },
+      "cabin": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      }
+    }
+  },
+  {
+    "id": "pegasus",
+    "name": "Pegasus Airlines",
+    "limits": {
+      "personal": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      },
+      "cabin": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      }
+    }
+  },
+  {
+    "id": "sas",
+    "name": "SAS",
+    "limits": {
+      "personal": {
+        "h": 40,
+        "w": 30,
+        "d": 15
+      },
+      "cabin": {
+        "h": 55,
+        "w": 40,
+        "d": 23
+      }
+    }
+  },
+  {
+    "id": "iberia",
+    "name": "Iberia",
+    "limits": {
+      "personal": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      },
+      "cabin": {
+        "h": 0,
+        "w": 0,
+        "d": 0
+      }
+    }
+  }
+]
