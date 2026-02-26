@@ -1,15 +1,1 @@
-[
-    { "id": "samsonite_scure_55", "name": "Samsonite S'Cure Spinner 55", "h": 55, "w": 40, "d": 20 },
-    { "id": "samsonite_scure_75", "name": "Samsonite S'Cure Spinner 75 (Large)", "h": 75, "w": 52, "d": 31 },
-    { "id": "samsonite_cosmolite_55", "name": "Samsonite Cosmolite Spinner 55", "h": 55, "w": 40, "d": 20 },
-    { "id": "american_tourister_soundbox", "name": "American Tourister Soundbox 55", "h": 55, "w": 40, "d": 20 },
-    { "id": "american_tourister_bon_air", "name": "American Tourister Bon Air S", "h": 55, "w": 40, "d": 20 },
-    { "id": "eastpak_tranverz_s", "name": "Eastpak Tranverz S (Soft)", "h": 51, "w": 32, "d": 24 },
-    { "id": "eastpak_tranverz_l", "name": "Eastpak Tranverz L (Large)", "h": 79, "w": 40, "d": 33 },
-    { "id": "rimowa_original_cabin", "name": "Rimowa Original Cabin", "h": 55, "w": 40, "d": 23 },
-    { "id": "rimowa_essential_checkin", "name": "Rimowa Essential Check-In L", "h": 77, "w": 51, "d": 27 },
-    { "id": "away_the_carryon", "name": "Away The Carry-On", "h": 55, "w": 39, "d": 23 },
-    { "id": "decathlon_kipsta_20l", "name": "Decathlon Kipsta 20L Backpack", "h": 40, "w": 23, "d": 10 },
-    { "id": "action_spilbergen_cabin", "name": "Action Spilbergen Cabin Trolley", "h": 55, "w": 35, "d": 20 },
-    { "id": "ikea_starttid", "name": "IKEA STARTTID Backpack", "h": 48, "w": 27, "d": 14 }
-]
+[]
