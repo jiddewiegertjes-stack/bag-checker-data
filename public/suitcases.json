@@ -43,5 +43,61 @@
     "stars": "4.5",
     "reviews": "2556",
     "affiliate_url": ""
+  },
+  {
+    "id": "B07H8TX91R",
+    "name": "Samsonite Underseat Carry-On Spinner With USB Port",
+    "brand": "Samsonite",
+    "type": "personal",
+    "h": 42,
+    "w": 35,
+    "d": 23,
+    "price": "117.5",
+    "image": "https://m.media-amazon.com/images/I/91r54xqEaDL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+    "stars": "4.4",
+    "reviews": "7084",
+    "affiliate_url": ""
+  },
+  {
+    "id": "B0FW5PVD5W",
+    "name": "Samsonite Ascella 4 Carry-On Luggage",
+    "brand": "Samsonite",
+    "type": "cabin",
+    "h": 60,
+    "w": 38,
+    "d": 25,
+    "price": "119.45",
+    "image": "https://m.media-amazon.com/images/I/81LE+MhqVcL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+    "stars": "5",
+    "reviews": "3",
+    "affiliate_url": ""
+  },
+  {
+    "id": "B0DKB133Q3",
+    "name": "Samsonite Saire LTE Softside Expandable Luggage with Spinners",
+    "brand": "Samsonite",
+    "type": "cabin",
+    "h": 71,
+    "w": 50,
+    "d": 31,
+    "price": "363.64",
+    "image": "https://m.media-amazon.com/images/I/81y2hIdIVnL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+    "stars": "4.5",
+    "reviews": "653",
+    "affiliate_url": ""
+  },
+  {
+    "id": "B0FW5NR9G7",
+    "name": "Samsonite Ascella 4 Large Checked Suitcase",
+    "brand": "Samsonite",
+    "type": "cabin",
+    "h": 83,
+    "w": 52,
+    "d": 27,
+    "price": "178.45",
+    "image": "https://m.media-amazon.com/images/I/81kT4bN8M7L._AC_SY300_SX300_QL70_FMwebp_.jpg",
+    "stars": "5",
+    "reviews": "3",
+    "affiliate_url": ""
   }
 ]
