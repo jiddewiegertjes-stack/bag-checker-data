@@ -1,50 +1,5 @@
 [
   {
-    "id": "B0CPGQP4T8",
-    "name": "undefined undefined",
-    "price": "177.31",
-    "image": "https://m.media-amazon.com/images/I/71An4MrI0sL._AC_SY300_SX300_QL70_FMwebp_.jpg",
-    "stars": "4.4",
-    "reviews": "343",
-    "affiliate_url": ""
-  },
-  {
-    "id": "B07PJLPT77",
-    "name": "undefined undefined",
-    "price": "269.95",
-    "image": "https://m.media-amazon.com/images/I/91tfZLnPWNL._AC_SY300_SX300_QL70_FMwebp_.jpg",
-    "stars": "4.3",
-    "reviews": "3198",
-    "affiliate_url": ""
-  },
-  {
-    "id": "B0CQRVZ6MJ",
-    "name": "undefined undefined",
-    "price": "252.99",
-    "image": "https://m.media-amazon.com/images/I/716xdjOK68L._AC_SY300_SX300_QL70_FMwebp_.jpg",
-    "stars": "4.3",
-    "reviews": "229",
-    "affiliate_url": ""
-  },
-  {
-    "id": "B0CPGRC9D6",
-    "name": "undefined undefined",
-    "price": "192.14",
-    "image": "https://m.media-amazon.com/images/I/81mK4zSHOoL._AC_SY300_SX300_QL70_FMwebp_.jpg",
-    "stars": "4.5",
-    "reviews": "643",
-    "affiliate_url": ""
-  },
-  {
-    "id": "B0B2WZTSMS",
-    "name": "undefined undefined",
-    "price": "68.25",
-    "image": "https://m.media-amazon.com/images/I/81+MRVPh-jL._AC_SY300_SX300_QL70_FMwebp_.jpg",
-    "stars": "4.5",
-    "reviews": "2556",
-    "affiliate_url": ""
-  },
-  {
     "id": "B07H8TX91R",
     "name": "Samsonite Underseat Carry-On Spinner With USB Port",
     "brand": "Samsonite",
